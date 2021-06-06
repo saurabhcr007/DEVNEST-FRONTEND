@@ -1,0 +1,74 @@
+*{margin: 0%;}
+body{
+    background-color:rgb(255, 255, 255);
+    background-size: 1680px 1080px;
+}
+.left-pad{
+    padding-left: 15px;
+    padding-right: 50px;
+    display: inline-block;
+    max-width: 25%;
+}
+.heading h1{z-index: 1;
+    background-color: white;
+    display: inline-block;
+}
+.heading{
+    font-weight: bold;
+    text-align: center;
+    max-width: 60%;
+}
+.Personal{
+    padding-bottom: 30px;
+} 
+.Personal h3{
+    padding-bottom: 10px;
+}
+.Honor{
+    padding-bottom: 30px;
+}
+.Honor h3{
+    padding-bottom: 10px;
+}
+.Contact{
+    padding-bottom: 30px;
+}
+.Contact h3{
+    padding-bottom: 10px;
+}
+.contact p{
+    padding-left: 20px;
+}
+.Interest{
+    padding-bottom: 30px;
+}
+.Interest h3{
+    padding-bottom: 10px;
+}
+.right-pad {
+    border-left-width: 3px;
+    border-left-style: solid;
+    border-color: rgb(49, 52, 211);
+    padding-left: 10px;
+    padding-right: 0px;
+    display: inline-block;
+    top: 60px;
+    max-width: 25%;
+    right: 600px;
+}
+.Work h2{
+    padding-bottom: 10px;
+}
+.g1, .g2{
+    padding-bottom: 10px;
+}
+.acc1, .acc2, .acc3, .acc4{
+    padding-top: 10px;
+}
+.Academic{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.content{
+    border: 3px solid blue;
+}  
