@@ -1,0 +1,41 @@
+body{   
+    border: 5px solid rgb(192, 14, 14);
+    z-index: 1;
+    height: 40%;
+    width: 60%;
+    margin: auto;
+    margin-top: 200px;
+}
+.head{
+    padding-left: 35%;
+    font-style: oblique;
+    font-style: italic;
+    font-size: xx-large;
+}
+.full{
+    background-image: linear-gradient(to left, violet, indigo, rgb(73, 73, 170), green, yellow, orange, red);
+}
+.first{
+    padding-left: 35%;
+    font-size: large;
+    font-style: italic;
+}
+.second{
+    padding-left: 33.5%;
+    font-size: large;
+    font-style: italic;
+}
+.res{
+    padding-left: 40%;
+    font-size: large;
+    font-style: italic;
+}
+.but{
+    padding-bottom: 40px;
+    padding-top: 42px;
+    display: flex;
+    justify-content: space-evenly;
+}        
+button{
+    background-color: aqua;
+}
