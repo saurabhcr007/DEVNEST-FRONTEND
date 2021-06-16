@@ -1,0 +1,103 @@
+*{margin: 0px;
+padding: 0px;
+box-sizing: border-box;}
+.mainbox{
+    border: 5px solid black;
+    background-color: rgba(118, 247, 150, 0.966);
+    height: 635px;
+    width: 635px;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+.total{ 
+    display: flex;
+    justify-content: space-around;
+}
+.clicked ,.remaining{
+    font-size: xx-large;
+}
+.box1 ,.box2 ,.box3 ,.box4 ,.box5 ,.box6{
+    border: 1px solid white;
+    width: 99px;
+    height: 99px;
+    background-color: blue;
+    margin-top: 5px;
+}
+.box7 ,.box8 ,.box9 ,.box10 ,.box11 ,.box12{
+    border: 1px solid white;
+    width: 99px;
+    height: 99px;
+    background-color: blue;
+    margin-top: 5px;
+}
+.box13 ,.box14 ,.box15 ,.box16 ,.box17 ,.box18{
+    border: 1px solid white;
+    width: 99px;
+    height: 99px;
+    background-color: blue;
+    margin-top: 5px;
+}    
+.box19 ,.box20 ,.box21 ,.box22 ,.box23 ,.box24{
+    border: 1px solid white;
+    width: 99px;
+    height: 99px;
+    background-color: blue;
+    margin-top: 5px;
+}
+.box25 ,.box26 ,.box27 ,.box28 ,.box29 ,.box30{
+    border: 1px solid white;
+    width: 99px;
+    height: 99px;
+    background-color: blue;
+    margin-top: 5px;
+}    
+.box31 ,.box32 ,.box33 ,.box34 ,.box35 ,.box36{
+    border: 1px solid white;
+    width: 99px;
+    height: 99px;
+    background-color: blue;
+    margin-top: 5px;
+}
+.boxc1 ,.boxc2 ,.boxc3 ,.boxc4 ,.boxc5 ,.boxc6{
+    border: 1px solid white;
+    width: 99px;
+    height: 99px;
+    background-color: aqua;
+    margin-top: 5px;
+}
+.boxc7 ,.boxc8 ,.boxc9 ,.boxc10 ,.boxc11 ,.boxc12{
+    border: 1px solid white;
+    width: 99px;
+    height: 99px;
+    background-color: aqua;
+    margin-top: 5px;
+}
+.boxc13 ,.boxc14 ,.boxc15 ,.boxc16 ,.boxc17 ,.boxc18{
+    width: 99px;
+    border: 1px solid white;
+    height: 99px;
+    background-color: aqua;
+    margin-top: 5px;
+}    
+.boxc19 ,.boxc20 ,.boxc21 ,.boxc22 ,.boxc23 ,.boxc24{
+    border: 1px solid white;
+    width: 99px;
+    height: 99px;
+    background-color: aqua;
+    margin-top: 5px;
+}
+.boxc25 ,.boxc26 ,.boxc27 ,.boxc28 ,.boxc29 ,.boxc30{
+    border: 1px solid white;
+    width: 99px;
+    height: 99px;
+    background-color: aqua;
+    margin-top: 5px;
+}
+.boxc31 ,.boxc32 ,.boxc33 ,.boxc34 ,.boxc35 ,.boxc36{
+    border: 1px solid white;
+    width: 99px;
+    height: 99px;
+    background-color: aqua;
+    margin-top: 5px;
+}
