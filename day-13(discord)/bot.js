@@ -9,7 +9,7 @@ async function getdata(){
 add.addEventListener('click', async () =>{
     let response = getdata()
     let user = await response;
-    fetch('https://discord.com/api/webhooks/858291947722506250/J53qZu6RlbgUge_UQUbVfKPR2iFpfxsCsqLzuc25dq9dUnvFOibSFrDZ5TxHpbRYdqex',
+    fetch(/*discord webhook here*/ ,
     {
         method: 'post',
         headers: {
@@ -22,7 +22,7 @@ add.addEventListener('click', async () =>{
 add.addEventListener('click', async () =>{
     let response = getdata()
     let user = await response;
-    fetch('https://discord.com/api/webhooks/858291674186121226/-Bsu8wxAHwbrD4EHL25NTIKtI43ELCuACx1CxV_uTV3l-ko2cI_HK1oHUp59-JOoDiR2',
+    fetch(/*discord webhook here*/,
     {
         method: 'post',
         headers: {
