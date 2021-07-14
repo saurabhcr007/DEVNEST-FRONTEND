@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.geeks{
+    margin: auto;
+    height: 300px;
+    width:295px;
+    border: 10px solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
+.ebox:nth-child(odd){
+    margin: 2px;
+    height: 30px;
+    width: 30px;
+    background: black;
+}
+.ebox:nth-child(even){
+    border: 1px solid black;
+    margin: 2px;
+    height: 30px;
+    width: 30px;
+    background:white;
+}
+.obox:nth-child(odd){
+    border: 1px solid black;
+    margin: 2px;
+    height: 30px;
+    width: 30px;
+    background: white;
+}
+.obox:nth-child(even){
+    border: 1px solid black;
+    margin: 2px;
+    height: 30px;
+    width: 30px;
+    background:black;
+}
