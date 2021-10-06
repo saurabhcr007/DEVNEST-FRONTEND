@@ -1,0 +1,107 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css");
+body {
+  background-color: rgb(241, 240, 240) !important;
+}
+
+.navbar .navbar-nav {
+  margin-left: auto;
+}
+
+.navbar {
+  position: fixed !important;
+  width: 100%;
+  z-index: 1;
+}
+
+.navbar .navbar-nav img {
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+}
+
+.container {
+  max-width: 1000px;
+}
+
+.navbar .navbar-nav i {
+  font-size: 1.5em;
+  color: #000;
+  padding: 0px 5px;
+}
+
+.navbar .search {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.navbar .search input {
+  width: 200px;
+}
+
+.landing {
+  height: 100vh;
+}
+
+.story {
+  padding: 10px;
+  display: block;
+  margin-top: 100px;
+}
+
+.story .story-img {
+  width: 55px;
+  height: 55px;
+  border: 2px solid #c62f91;
+  border-radius: 100%;
+}
+
+.card.story {
+  display: -webkit-inline-box;
+  white-space: nowrap;
+  overflow-x: auto;
+  max-width: -webkit-fill-available;
+}
+
+.story::-webkit-scrollbar {
+  display: none;
+}
+
+.story-img img {
+  border-radius: 100%;
+  border: 2px solid #fff;
+  width: 100%;
+  height: 100%;
+}
+
+/*  */
+
+.post {
+  margin: 40px 0px;
+}
+
+.post .card-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.post .card-header .card-title {
+  margin-bottom: 0;
+}
+
+.post .buttons {
+  margin: 10px 0px;
+}
+
+.post .buttons i {
+  font-size: 1.5em;
+  margin: 10px;
+}
+
+.post i {
+  cursor: pointer;
+}
+
+.post .buttons i.liked {
+  color: #ed4956;
+}

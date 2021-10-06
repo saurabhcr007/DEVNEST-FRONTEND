@@ -1,0 +1,28 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.App {
+  height: 80vh;
+  flex-direction: column;
+}
+
+.App * {
+  margin: 5px;
+  padding: 5px;
+}
+
+.App h3 {
+  text-align: center;
+}
+
+.box {
+  display: flex;
+  flex-direction: row;
+}
+
+.check {
+  margin-top: 17px;
+}

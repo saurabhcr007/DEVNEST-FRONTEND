@@ -1,0 +1,24 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.card {
+  margin: 20px;
+  width: 18rem;
+}
+
+li {
+  margin: 0px 250px;
+}
+
+.form {
+  width: 30rem;
+  margin: 20px;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+}

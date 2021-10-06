@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App {
+  height: 100vh;
+}
+
+.App.Dark {
+  background-color: black;
+  color: white;
+}
+
+h2 {
+  margin: 10px 0px;
+  text-align: center;
+}
+
+.toggle-theme {
+  position: fixed;
+  right: 10px;
+  top: 10px;
+  padding: 7px;
+  background-color: black;
+  color: white;
+}
+
+.toggle-theme.Dark {
+  background-color: white;
+  color: black;
+}
+
+.form {
+  text-align: center;
+}
+
+.form input {
+  padding: 5px;
+}
+
+.form button {
+  margin: 0px 10px;
+  font-size: 1em;
+  padding: 5px;
+}

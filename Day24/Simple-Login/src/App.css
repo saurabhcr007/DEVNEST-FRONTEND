@@ -1,0 +1,20 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.navbar {
+  background-color: rgb(143, 218, 241);
+  margin: 10px;
+}
+
+.nav-item {
+  margin: 0px 120px;
+}
+
+.container {
+  margin-top: 20px;
+  display: block;
+  text-align: center;
+}
